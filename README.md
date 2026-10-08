@@ -72,7 +72,7 @@ I also created measures for Total Profit and Total Orders.
 
 - `Dashboard.png` - Final dashboard screenshot
 - `Ecommerce Sales Analysis Project Report.pdf` - Project report
-- `Ecommerce Sales Cleaned.xls` - Cleaned dataset
+- `Ecommerce Sales Cleaned.csv` - Cleaned dataset
 - `Ecommerce Sales Raw.xlsx` - Raw dataset
 - `Ecommerce sales.ipynb` - Python/Jupyter Notebook work
 - `Ecommerce_Analysis.sql` - SQL queries
