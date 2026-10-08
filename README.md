@@ -1,3 +1,6 @@
+## Project Structure
+
+```text
 Ecommerce-Sales-Analysis/
 │
 ├── README.md
@@ -8,3 +11,4 @@ Ecommerce-Sales-Analysis/
 ├── Ecommerce sales.ipynb
 ├── Ecommerce_Analysis.sql
 └── Ecommerce_Sales_Analysis_Dashboard.pbix
+```
